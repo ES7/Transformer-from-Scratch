@@ -1,7 +1,6 @@
 # Transformer-from-Scratch
 Read my articles for a detailed explanation.<br>
-**How Transformer Works :-** https://medium.com/@sayedebad.777/mastering-transformer-detailed-insights-into-each-block-and-their-math-4221c6ee0076 <br>
-**Code from Scratch :-** https://medium.com/@sayedebad.777/mastering-transformer-detailed-insights-into-each-block-and-their-math-4221c6ee0076 <br>
+[How Transformer Works](https://medium.com/@sayedebad.777/mastering-transformer-detailed-insights-into-each-block-and-their-math-4221c6ee0076) and [Code from Scratch](https://medium.com/@sayedebad.777/mastering-transformer-detailed-insights-into-each-block-and-their-math-4221c6ee0076)
 
 This notebook is divided into 6 parts:
 **1. Libraries:** import all the necessary tools and libraries
